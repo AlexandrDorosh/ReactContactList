@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+.fa {
+    cursor: pointer;
+    color: darkorange;
+  }
+.fas {
+    cursor: pointer;
+    color: darkorange;
+  }
+  button{
+      width: 20%;
+  }
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
